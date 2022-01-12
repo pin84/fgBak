@@ -1,0 +1,1 @@
+import{p as a,a as t,o as d,c as o,w as s}from"./vendor.a4b19492.js";const e={created(){this.init()},methods:{init(){console.log("audit")}}},i=s();a("data-v-0ed4072a");const n={id:"audit"};t();const c=i(((a,t,s,e,i,c)=>(d(),o("div",n," 这是审核页面 "))));e.render=c,e.__scopeId="data-v-0ed4072a";export default e;
